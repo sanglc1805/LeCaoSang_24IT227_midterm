@@ -1,0 +1,9 @@
+# Compiled executable and object files
+myls
+*.o
+src/*.o
+
+# Editor and operating-system files
+*~
+*.swp
+.DS_Store
